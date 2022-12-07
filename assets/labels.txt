@@ -1,0 +1,23 @@
+0 Leaf Scab
+1 Black Rot
+2 Cedar Leaf Rust
+3 Healthy
+4 Gray Leaf Spot
+5 Common Rust
+6 Healthy
+7 Northern Leaf Blight
+8 Early Blight
+9 Healthy
+10 Late Blight
+11 Bacterial Spot
+12 Early Blight
+13 Healthy
+14 Late Blight
+15 Leaf Mold
+16 Septoria Leaf Spot
+17 Target Spot
+18 Mosaic Virus
+19 Black Rot
+20 Esca (Black Measles)
+21 Healthy
+22 Leaf Blight 
